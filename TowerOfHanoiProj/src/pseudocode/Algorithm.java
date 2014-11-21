@@ -18,6 +18,7 @@ public class Algorithm {
 			if Enterキー
 			{
 				次の処理を行う。（円盤の移動、）
+				描画処理を行う。
 			}
 		}
 	}

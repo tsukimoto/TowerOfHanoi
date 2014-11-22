@@ -6,21 +6,13 @@ import java.util.Iterator;
 public class Algorithm {
 
 	//コンストラクタ
-	Algorithm()
+	Algorithm( 段数引数 )
 	{
-		for (int i = 0; i < array.length; i++) {
-			円盤の生成
-			棒の生成
-			
-			
-			コンソールで入力待ち
-			
-			if Enterキー
-			{
-				次の処理を行う。（円盤の移動、）
-				描画処理を行う。
-			}
-		}
+		データクラス生成（段数引数）
 	}
-
+	
+	ハノイの塔の通りに移動（）
+	{
+		データクラスのデータ移動メソッド(from, dest);
+	}
 }

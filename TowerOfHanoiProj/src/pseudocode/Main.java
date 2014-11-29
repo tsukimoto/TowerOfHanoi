@@ -1,7 +1,7 @@
 package pseudocode;
 
 public class Main {
-	public static void main(String[] args) {
+	main(String[] args) {
 		
 		ハノイの塔の段数を尋ねる。
 		コンソールの入力待ち。

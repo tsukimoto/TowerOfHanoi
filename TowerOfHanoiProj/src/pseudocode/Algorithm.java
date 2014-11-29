@@ -6,8 +6,9 @@ import java.util.Iterator;
 public class Algorithm {
 
 	//コンストラクタ
-	Algorithm( 段数引数 )
+	Algorithm()
 	{
+		
 		データクラス生成（段数引数）
 	}
 	
